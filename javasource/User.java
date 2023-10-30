@@ -1,3 +1,4 @@
+package javasource;
 public class User {
     private static int uid = 12345;
     private String userName;
